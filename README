@@ -1,5 +1,8 @@
 ## Run the program
-Download the latest [EncodingDecoding.jar](../../releases/latest) and run:
+Download the EncodingDecoding.jar and run in your terminal:
 
 ```bash
 java -jar EncodingDecoding.jar
+
+
+Note - make sure you are in the directory where you downloaded EncodingDecoding.jar, usually (cd download)
