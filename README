@@ -1,0 +1,5 @@
+## Run the program
+Download the latest [EncodingDecoding.jar](../../releases/latest) and run:
+
+```bash
+java -jar EncodingDecoding.jar
